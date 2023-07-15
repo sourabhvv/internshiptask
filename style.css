@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .navbar-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar-item {
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+  }
+  
+  .navbar-item:hover {
+    color: #555;
+  }
+
+  #main{
+    
+    height: 194px;
+  }
+
+  #card{
+
+      margin-top: -100px;
+      background: hsla(0, 0%, 100%, 0.8);
+      backdrop-filter: blur(30px);
+  }
+  
